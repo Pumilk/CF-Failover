@@ -1,0 +1,4 @@
+config
+*.local
+*.bak
+.DS_Store
